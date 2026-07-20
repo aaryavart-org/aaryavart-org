@@ -4,7 +4,7 @@ Aaryavart Centre for Autism and Special Needs is a non-profit organization provi
 
 Live site: https://aaryavart.org
 
-![Aaryavart screenshot](https://aaryavart.org/assets/second.png)
+![Aaryavart screenshot](https://aaryavart.org/assets/second.webp)
 
 ## Mission
 
